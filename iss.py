@@ -4,7 +4,7 @@ __author__ = 'Mavrick Watts'
 
 import requests
 import time
-import turtle
+import turtle 
 
 
 def astronauts_in_space():
@@ -97,4 +97,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main() 
